@@ -2,6 +2,8 @@
 
 Плагин для [FunPay Cardinal](https://github.com/sidor0912/FunPayCardinal) **v0.1.17+**
 
+**Автор:** yungspider
+
 Дашборд активных заказов в Telegram + автоматические напоминания покупателям
 «подтвердите заказ».
 

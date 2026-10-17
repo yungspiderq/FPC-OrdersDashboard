@@ -51,12 +51,12 @@ from FunPayAPI.common.enums import OrderStatuses, Currency
 logger = logging.getLogger("FPC.OrdersDashboard")
 
 # ══════════════════════════════ МЕТАДАННЫЕ ПЛАГИНА ══════════════════════════════
-NAME = "Дашборд заказов и напоминания"
-VERSION = "1.0.0"
+NAME = "OrdersDashboard (Orders & Confirm Reminders)"
+VERSION = "1.0.1"
 DESCRIPTION = ("Дашборд активных заказов в Telegram (возраст, напомнить, возврат, ссылка) + "
                "автоматические напоминания покупателям «подтвердите заказ» через N часов "
                "после оплаты/выдачи. Команда: /orders")
-CREDITS = "Qwen (для FunPay Cardinal)"
+CREDITS = "yungspider"
 UUID = "afa0670c-b58c-4076-b4db-971a9d3daf8e"
 SETTINGS_PAGE = True
 
